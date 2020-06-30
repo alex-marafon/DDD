@@ -1,0 +1,5 @@
+C:\Users\Trut4\Source\Repos\DDD\ModeloBase\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\Trut4\Source\Repos\DDD\ModeloBase\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Trut4\Source\Repos\DDD\ModeloBase\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\Trut4\Source\Repos\DDD\ModeloBase\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\Trut4\Source\Repos\DDD\ModeloBase\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
